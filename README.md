@@ -1,4 +1,4 @@
-# Data-Science-Assignment-2# 🎬 Movie Data Analysis Project
+ 🎬 Movie Data Analysis Project
 
 ## 📌 Project Description
 
